@@ -1,12 +1,127 @@
 {
-  "snapshot_date": "2026-10-14",
-  "scope": "Published source snapshot; Git may normalize text line endings",
+  "snapshot_date": "2026-10-15",
+  "captured_at": "2026-10-15T01:51:25+08:00",
+  "scope": "Selected current working source. bytes/sha256 describe published Git blobs; original_copy_sha256 describes source input bytes before Git text normalization. Private data and non-distributable resources excluded.",
   "files": [
     {
       "path": "adapters.js",
       "bytes": 1456,
       "sha256": "73f7026b7554f1ce321b51793cfa411725653b80efce349cae34390c2e6ba793",
       "original_copy_sha256": "73f7026b7554f1ce321b51793cfa411725653b80efce349cae34390c2e6ba793"
+    },
+    {
+      "path": "android/app/src/main/AndroidManifest.xml",
+      "bytes": 1005,
+      "sha256": "9cc1f823f07e056edd5b38e659d3f05650d8b5136d9e27bbe843feeb7f5bbf44",
+      "original_copy_sha256": "9cc1f823f07e056edd5b38e659d3f05650d8b5136d9e27bbe843feeb7f5bbf44"
+    },
+    {
+      "path": "android/app/src/main/assets/web/assets/fonts/OFL-ZCOOLKuaiLe.txt",
+      "bytes": 4398,
+      "sha256": "538078469839b4a2e7ad22bef4ebe41681a4e53749bb2a072144024f1d6d703d",
+      "original_copy_sha256": "538078469839b4a2e7ad22bef4ebe41681a4e53749bb2a072144024f1d6d703d"
+    },
+    {
+      "path": "android/app/src/main/assets/web/games/chess/vendor/CardRoomPro-LICENSE.txt",
+      "bytes": 1067,
+      "sha256": "92fff91b197a0b257951c7be4043dbd038bc78592fdaa8ad94a53a9e314e6343",
+      "original_copy_sha256": "92fff91b197a0b257951c7be4043dbd038bc78592fdaa8ad94a53a9e314e6343"
+    },
+    {
+      "path": "android/app/src/main/assets/web/games/coop/third_party/slf/LICENSE.txt",
+      "bytes": 35128,
+      "sha256": "3743f7a4ab5132f7dbeb88e68097657ab8374e74b46b6402efbe80ccfb1b6488",
+      "original_copy_sha256": "3743f7a4ab5132f7dbeb88e68097657ab8374e74b46b6402efbe80ccfb1b6488"
+    },
+    {
+      "path": "android/app/src/main/assets/web/games/workshop/vendor/THREE-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d",
+      "original_copy_sha256": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d"
+    },
+    {
+      "path": "android/gradle.properties",
+      "bytes": 107,
+      "sha256": "bb154113902d3f6299ec1001cb78f41aecfc8a70a21f3ab877023ba1ab4769e1",
+      "original_copy_sha256": "bb154113902d3f6299ec1001cb78f41aecfc8a70a21f3ab877023ba1ab4769e1"
+    },
+    {
+      "path": "android/pack-assets.mjs",
+      "bytes": 2861,
+      "sha256": "b57881cf11f94b11d88504b2d4cb108d80d76b4a6d79c920e9b3ae813011a119",
+      "original_copy_sha256": "b57881cf11f94b11d88504b2d4cb108d80d76b4a6d79c920e9b3ae813011a119"
+    },
+    {
+      "path": "android/README.md",
+      "bytes": 6158,
+      "sha256": "a16a98cec244ce39c2155f0889733728c50d994eada8693ed96167ce0e30c278",
+      "original_copy_sha256": "a16a98cec244ce39c2155f0889733728c50d994eada8693ed96167ce0e30c278"
+    },
+    {
+      "path": "android/test-bundle.mjs",
+      "bytes": 3817,
+      "sha256": "029c131abcf0ae135ccb34eecf5ec455c1b4bd325a59d7371a8f3597f63fb2ad",
+      "original_copy_sha256": "029c131abcf0ae135ccb34eecf5ec455c1b4bd325a59d7371a8f3597f63fb2ad"
+    },
+    {
+      "path": "android/test-six-mode-bundle.mjs",
+      "bytes": 2604,
+      "sha256": "1407e01912c3f03d5fcd1e2ee61103bc7a7f235266f618478e5305d8482d0bf9",
+      "original_copy_sha256": "1407e01912c3f03d5fcd1e2ee61103bc7a7f235266f618478e5305d8482d0bf9"
+    },
+    {
+      "path": "android/发布核对-1.17.0.md",
+      "bytes": 2678,
+      "sha256": "2eeb62c6cb19c9932dad46daa9b30a75db963ca9fcbff19182f1ff89e0d57ff7",
+      "original_copy_sha256": "2eeb62c6cb19c9932dad46daa9b30a75db963ca9fcbff19182f1ff89e0d57ff7"
+    },
+    {
+      "path": "android/发布核对-1.18.0.md",
+      "bytes": 2807,
+      "sha256": "fedaf93d546585804bf346b769e45b83f2d9cc3e57b3e6f3a1cd9f6460bb81cb",
+      "original_copy_sha256": "fedaf93d546585804bf346b769e45b83f2d9cc3e57b3e6f3a1cd9f6460bb81cb"
+    },
+    {
+      "path": "android/发布核对-1.19.0.md",
+      "bytes": 1316,
+      "sha256": "45173ab2dbcf6fb0406325f9ca8026146b701a3997778518c623e579a17dfd8d",
+      "original_copy_sha256": "45173ab2dbcf6fb0406325f9ca8026146b701a3997778518c623e579a17dfd8d"
+    },
+    {
+      "path": "android/发布核对-1.19.1.md",
+      "bytes": 1603,
+      "sha256": "affcb236b325974e2c09e2b9ca9d23dde9a3e46da763914c3d87a0e8a50d5652",
+      "original_copy_sha256": "affcb236b325974e2c09e2b9ca9d23dde9a3e46da763914c3d87a0e8a50d5652"
+    },
+    {
+      "path": "android/发布核对-1.20.0.md",
+      "bytes": 2680,
+      "sha256": "e7067e4d6ca807edd6bbf263a652dc505446c2ec1736883c29bd67f304f273bd",
+      "original_copy_sha256": "e7067e4d6ca807edd6bbf263a652dc505446c2ec1736883c29bd67f304f273bd"
+    },
+    {
+      "path": "android/发布核对-1.21.0.md",
+      "bytes": 5526,
+      "sha256": "7b05e0fccecef786f22267a24b1e9557256faf4d279ab41b761315fbf254fcdb",
+      "original_copy_sha256": "7b05e0fccecef786f22267a24b1e9557256faf4d279ab41b761315fbf254fcdb"
+    },
+    {
+      "path": "android/发布核对-1.22.0.md",
+      "bytes": 3028,
+      "sha256": "8b48d16caa7595de90f89b24fcd9ca7cbb9564fb3bbb11872612fbf83425b54b",
+      "original_copy_sha256": "8b48d16caa7595de90f89b24fcd9ca7cbb9564fb3bbb11872612fbf83425b54b"
+    },
+    {
+      "path": "android/发布核对-1.23.0.md",
+      "bytes": 3443,
+      "sha256": "7d391a63255d154ac872439058eccf52bfbfeff4ae799c0b377f7ac07ee76ac2",
+      "original_copy_sha256": "7d391a63255d154ac872439058eccf52bfbfeff4ae799c0b377f7ac07ee76ac2"
+    },
+    {
+      "path": "android/发布核对-1.91.2.md",
+      "bytes": 1693,
+      "sha256": "5ffb38dddd7b52aef690f12c0492af8cb11b7990179cdaabaffc42b6b305e01f",
+      "original_copy_sha256": "5ffb38dddd7b52aef690f12c0492af8cb11b7990179cdaabaffc42b6b305e01f"
     },
     {
       "path": "app.js",
@@ -79,240 +194,6 @@
       "bytes": 2715,
       "sha256": "50915afcec55a07733d0d134c9f084bb718492691afcba486c0bcb4e2ee594ff",
       "original_copy_sha256": "50915afcec55a07733d0d134c9f084bb718492691afcba486c0bcb4e2ee594ff"
-    },
-    {
-      "path": "index.html",
-      "bytes": 1052,
-      "sha256": "f381cb4884a958d9a5e606ace5566ff5f29f6804e6ae5f9cd693cf0d3cb05e6f",
-      "original_copy_sha256": "f381cb4884a958d9a5e606ace5566ff5f29f6804e6ae5f9cd693cf0d3cb05e6f"
-    },
-    {
-      "path": "legal.html",
-      "bytes": 2836,
-      "sha256": "2db6439f125dfda802a5e8de74ffe30d0cd73d79df4560acd6d8dc09c64fa98c",
-      "original_copy_sha256": "2db6439f125dfda802a5e8de74ffe30d0cd73d79df4560acd6d8dc09c64fa98c"
-    },
-    {
-      "path": "live-games.js",
-      "bytes": 4173,
-      "sha256": "61934777c37cf33107f8d8ca268434066ad79fd44ae9c5d74f06fe64f8a8f55b",
-      "original_copy_sha256": "61934777c37cf33107f8d8ca268434066ad79fd44ae9c5d74f06fe64f8a8f55b"
-    },
-    {
-      "path": "live.css",
-      "bytes": 1930,
-      "sha256": "8fc86c85ec4a77143465d5d609053321cfbfab57fe7f12287da2bc5e96ca1fc5",
-      "original_copy_sha256": "8fc86c85ec4a77143465d5d609053321cfbfab57fe7f12287da2bc5e96ca1fc5"
-    },
-    {
-      "path": "multiplayer-contract.json",
-      "bytes": 5938,
-      "sha256": "3ca7fd2b2b5439cc34882e03d877446bbac4ee00264577b64ea9bd7cefb215f8",
-      "original_copy_sha256": "3ca7fd2b2b5439cc34882e03d877446bbac4ee00264577b64ea9bd7cefb215f8"
-    },
-    {
-      "path": "package.json",
-      "bytes": 2908,
-      "sha256": "52c780fb639c25bc9454a708f0282cf9eb73ad39f945263b3fedac8ba93818c8",
-      "original_copy_sha256": "52c780fb639c25bc9454a708f0282cf9eb73ad39f945263b3fedac8ba93818c8"
-    },
-    {
-      "path": "pixel-home.js",
-      "bytes": 2013,
-      "sha256": "37a470e82b4a209a25bb216470d8e44465addd4bf970653420b6b758a932173a",
-      "original_copy_sha256": "37a470e82b4a209a25bb216470d8e44465addd4bf970653420b6b758a932173a"
-    },
-    {
-      "path": "pixel-icons.js",
-      "bytes": 1941,
-      "sha256": "48aba6788761f565aa4a5c13a4759b177d2614f68ede4e16666ff49abfda7b66",
-      "original_copy_sha256": "48aba6788761f565aa4a5c13a4759b177d2614f68ede4e16666ff49abfda7b66"
-    },
-    {
-      "path": "pixel.css",
-      "bytes": 24230,
-      "sha256": "0f54244ad74012d2aa256170996c386a1d3c931f7a5660ccf5c2e278f7d9516e",
-      "original_copy_sha256": "0f54244ad74012d2aa256170996c386a1d3c931f7a5660ccf5c2e278f7d9516e"
-    },
-    {
-      "path": "platform.js",
-      "bytes": 1034,
-      "sha256": "8411d0969942a761b4dba32d10c52f5012ae35ae4386b8a7450a5317e5dd6faf",
-      "original_copy_sha256": "8411d0969942a761b4dba32d10c52f5012ae35ae4386b8a7450a5317e5dd6faf"
-    },
-    {
-      "path": "playful.css",
-      "bytes": 16538,
-      "sha256": "4e16288fa980b80ad63a8f46732e3a39a58c32b504c4ce10b7ceed4c6e4cf650",
-      "original_copy_sha256": "4e16288fa980b80ad63a8f46732e3a39a58c32b504c4ce10b7ceed4c6e4cf650"
-    },
-    {
-      "path": "polish.css",
-      "bytes": 35074,
-      "sha256": "46c4b684448e5c2c300c25f362374622b4bdabe5c79c780f5044878fc2df9574",
-      "original_copy_sha256": "46c4b684448e5c2c300c25f362374622b4bdabe5c79c780f5044878fc2df9574"
-    },
-    {
-      "path": "quest-badge.js",
-      "bytes": 722,
-      "sha256": "886e8aa3ae6a1e8345bc10c932772a49a262f6f8b68a8ec5d930fdb112afe295",
-      "original_copy_sha256": "886e8aa3ae6a1e8345bc10c932772a49a262f6f8b68a8ec5d930fdb112afe295"
-    },
-    {
-      "path": "reference-art.js",
-      "bytes": 3254,
-      "sha256": "005e052400acb26799467e072cd0c2b6d9c2d8c78698ebe8751c90bda9ac999d",
-      "original_copy_sha256": "005e052400acb26799467e072cd0c2b6d9c2d8c78698ebe8751c90bda9ac999d"
-    },
-    {
-      "path": "reference-ui.css",
-      "bytes": 21532,
-      "sha256": "19b97e88a21f0c52f47631efd4615109df529702f9773b947fe450cdd90b069f",
-      "original_copy_sha256": "19b97e88a21f0c52f47631efd4615109df529702f9773b947fe450cdd90b069f"
-    },
-    {
-      "path": "release-manifest.json",
-      "bytes": 2461,
-      "sha256": "ac2cc80d194556e47fc5ce3d7efc7ffb975e4a9e2dc4c8c4e1fb5c3af0d00a13",
-      "original_copy_sha256": "ac2cc80d194556e47fc5ce3d7efc7ffb975e4a9e2dc4c8c4e1fb5c3af0d00a13"
-    },
-    {
-      "path": "runtime-pack-policy.json",
-      "bytes": 386,
-      "sha256": "c858faf4799186cd6afb1120b52c7bfe0b9249c409cbe71c2d440ef44fe6b948",
-      "original_copy_sha256": "c858faf4799186cd6afb1120b52c7bfe0b9249c409cbe71c2d440ef44fe6b948"
-    },
-    {
-      "path": "screen-pages.css",
-      "bytes": 1981,
-      "sha256": "7e0222a5ebbaaea8c7911ac47b9722bf3401204901a8cefc4447a02e8e7a42ea",
-      "original_copy_sha256": "7e0222a5ebbaaea8c7911ac47b9722bf3401204901a8cefc4447a02e8e7a42ea"
-    },
-    {
-      "path": "screen-pages.js",
-      "bytes": 11697,
-      "sha256": "a087bd253efcd0d992ea1d16a0dcca81f423ae36ae7fe586037191325fc0aaa4",
-      "original_copy_sha256": "a087bd253efcd0d992ea1d16a0dcca81f423ae36ae7fe586037191325fc0aaa4"
-    },
-    {
-      "path": "server.mjs",
-      "bytes": 2448,
-      "sha256": "a58c6bd99c3704d32334e0601a361d25d289c1cfab36baf7b7272b191761f4ae",
-      "original_copy_sha256": "a58c6bd99c3704d32334e0601a361d25d289c1cfab36baf7b7272b191761f4ae"
-    },
-    {
-      "path": "services.js",
-      "bytes": 15926,
-      "sha256": "e6d5df9a9ee26c0cccea2c34dc67f6731acc162304aa21fa76efc8ad6372c6de",
-      "original_copy_sha256": "e6d5df9a9ee26c0cccea2c34dc67f6731acc162304aa21fa76efc8ad6372c6de"
-    },
-    {
-      "path": "style.css",
-      "bytes": 27005,
-      "sha256": "31759b66fd4ad299936028f084a6a19cdc2866510cb6c88a31fa440b5c08fb5a",
-      "original_copy_sha256": "31759b66fd4ad299936028f084a6a19cdc2866510cb6c88a31fa440b5c08fb5a"
-    },
-    {
-      "path": "ui.js",
-      "bytes": 3133,
-      "sha256": "32ac5ae65ec3e900493a2747d3de2ba37bac367d250b49d08271bd6a32704a65",
-      "original_copy_sha256": "32ac5ae65ec3e900493a2747d3de2ba37bac367d250b49d08271bd6a32704a65"
-    },
-    {
-      "path": "unified.css",
-      "bytes": 3667,
-      "sha256": "03163a8ec9c6d1832ed300b2318335700733e93a19b20e6415515ca6a4f475b7",
-      "original_copy_sha256": "03163a8ec9c6d1832ed300b2318335700733e93a19b20e6415515ca6a4f475b7"
-    },
-    {
-      "path": "views.js",
-      "bytes": 15761,
-      "sha256": "bdc1b1f586a85271b0aef67af886222126a247646896cd699bbd792f50b0a529",
-      "original_copy_sha256": "bdc1b1f586a85271b0aef67af886222126a247646896cd699bbd792f50b0a529"
-    },
-    {
-      "path": "warm.css",
-      "bytes": 10438,
-      "sha256": "099e10c6d539141a23ca47403679f4956103bebe8c64a535c59c31210420e601",
-      "original_copy_sha256": "099e10c6d539141a23ca47403679f4956103bebe8c64a535c59c31210420e601"
-    },
-    {
-      "path": "wood-settings.js",
-      "bytes": 2143,
-      "sha256": "79e3b94bffcae7839270425c4428bb8c29026921a02b511e9f6bbd8428198084",
-      "original_copy_sha256": "79e3b94bffcae7839270425c4428bb8c29026921a02b511e9f6bbd8428198084"
-    },
-    {
-      "path": "交付校验-1.10.0.json",
-      "bytes": 650,
-      "sha256": "76f565ad04230c4aea0c8724857c6d7fc278b5524db8debb3ad965862779bc20",
-      "original_copy_sha256": "76f565ad04230c4aea0c8724857c6d7fc278b5524db8debb3ad965862779bc20"
-    },
-    {
-      "path": "交付校验-1.11.0.json",
-      "bytes": 485,
-      "sha256": "9a235aaeb7a70cbe7ad09808d58013488f48791061cf712e1dbb3840cfc60b6e",
-      "original_copy_sha256": "9a235aaeb7a70cbe7ad09808d58013488f48791061cf712e1dbb3840cfc60b6e"
-    },
-    {
-      "path": "交付校验-1.12.0.json",
-      "bytes": 485,
-      "sha256": "317bd561cbc307dced2179bb25bf02bd6c647fcad8bfc4c6b3bb3e8b45de8e86",
-      "original_copy_sha256": "317bd561cbc307dced2179bb25bf02bd6c647fcad8bfc4c6b3bb3e8b45de8e86"
-    },
-    {
-      "path": "交付校验-1.12.1.json",
-      "bytes": 932,
-      "sha256": "2554f7db595065589a0042f6596d0e62eb40e8cbe648f219769bcb5df4fd7292",
-      "original_copy_sha256": "2554f7db595065589a0042f6596d0e62eb40e8cbe648f219769bcb5df4fd7292"
-    },
-    {
-      "path": "交付校验-1.13.0.json",
-      "bytes": 492,
-      "sha256": "3cd069639589d7b8c11f544711db35e22889ecb8dbf5f5d61d651053b9798c29",
-      "original_copy_sha256": "3cd069639589d7b8c11f544711db35e22889ecb8dbf5f5d61d651053b9798c29"
-    },
-    {
-      "path": "交付校验-1.14.0.json",
-      "bytes": 868,
-      "sha256": "c9920bafdbbafdea1306677cb0de4084c66c058b1c81058f553be95803dae7b2",
-      "original_copy_sha256": "c9920bafdbbafdea1306677cb0de4084c66c058b1c81058f553be95803dae7b2"
-    },
-    {
-      "path": "交付校验-1.6.0.json",
-      "bytes": 378,
-      "sha256": "95fc3221355af8a51b31ecb6176c8bd55dce4fae532e8d1cfd467bc11cea8a1e",
-      "original_copy_sha256": "95fc3221355af8a51b31ecb6176c8bd55dce4fae532e8d1cfd467bc11cea8a1e"
-    },
-    {
-      "path": "交付校验-1.7.0.json",
-      "bytes": 384,
-      "sha256": "6155eb6e7c7bd5665ebdf0ad29fbab57c132942954e5c8d5afac92811d6516aa",
-      "original_copy_sha256": "6155eb6e7c7bd5665ebdf0ad29fbab57c132942954e5c8d5afac92811d6516aa"
-    },
-    {
-      "path": "交付校验-1.7.1.json",
-      "bytes": 384,
-      "sha256": "dbd14470d9d47de291fe7d080735f06aa70409e8b57ccd53520e1ce3229fe939",
-      "original_copy_sha256": "dbd14470d9d47de291fe7d080735f06aa70409e8b57ccd53520e1ce3229fe939"
-    },
-    {
-      "path": "交付校验-1.8.0.json",
-      "bytes": 384,
-      "sha256": "3ea45e25bbfb4a079ea142f8b809732dd48c2ddf6fc01de96fc57e817cb3a390",
-      "original_copy_sha256": "3ea45e25bbfb4a079ea142f8b809732dd48c2ddf6fc01de96fc57e817cb3a390"
-    },
-    {
-      "path": "交付校验-1.8.1.json",
-      "bytes": 369,
-      "sha256": "91fead6f8f446061676731ef6064b184b17a24a1599c0255dc1ece7e2d34a4ea",
-      "original_copy_sha256": "91fead6f8f446061676731ef6064b184b17a24a1599c0255dc1ece7e2d34a4ea"
-    },
-    {
-      "path": "交付校验-1.9.0.json",
-      "bytes": 369,
-      "sha256": "cac7e4ac09c763425228e336bd1a5b64bb85e7b9e2b8100f530bd8afe2525b56",
-      "original_copy_sha256": "cac7e4ac09c763425228e336bd1a5b64bb85e7b9e2b8100f530bd8afe2525b56"
     },
     {
       "path": "games/camp-bridge.js",
@@ -435,12 +316,6 @@
       "original_copy_sha256": "bdd1d301af9dd7ee8a7207a5ec491fbc7dae3cfc0a6721f843ae66b8b42b8b8d"
     },
     {
-      "path": "games/chess/棋牌体验改造说明.md",
-      "bytes": 4096,
-      "sha256": "f86a474b632f6b803642806d34801756938f720b19ec394d460e4801868c9427",
-      "original_copy_sha256": "f86a474b632f6b803642806d34801756938f720b19ec394d460e4801868c9427"
-    },
-    {
       "path": "games/chess/vendor/CardRoomPro-LICENSE.txt",
       "bytes": 1067,
       "sha256": "92fff91b197a0b257951c7be4043dbd038bc78592fdaa8ad94a53a9e314e6343",
@@ -471,16 +346,10 @@
       "original_copy_sha256": "ec30aae77f781d0de2ab27547279fbc285849bd198a7ac0a4c31a5e10c16fccf"
     },
     {
-      "path": "games/coop/index.html",
-      "bytes": 14639,
-      "sha256": "f6c5bd5716d9ee426f57d9ec2fce38c117726bf6dfd762a4a23de79d9a1130a4",
-      "original_copy_sha256": "f6c5bd5716d9ee426f57d9ec2fce38c117726bf6dfd762a4a23de79d9a1130a4"
-    },
-    {
-      "path": "games/coop/package.json",
-      "bytes": 19,
-      "sha256": "fa6944a20ca5e6fbaf98fd202eb8c7004d5b4ab786e36b9ed02ee31dbe196c9f",
-      "original_copy_sha256": "fa6944a20ca5e6fbaf98fd202eb8c7004d5b4ab786e36b9ed02ee31dbe196c9f"
+      "path": "games/chess/棋牌体验改造说明.md",
+      "bytes": 4096,
+      "sha256": "f86a474b632f6b803642806d34801756938f720b19ec394d460e4801868c9427",
+      "original_copy_sha256": "f86a474b632f6b803642806d34801756938f720b19ec394d460e4801868c9427"
     },
     {
       "path": "games/coop/css/art.css",
@@ -523,6 +392,18 @@
       "bytes": 26998,
       "sha256": "834af485d95a600b81511e9d97cb5999de990b4e0e8d4b4ad99b571c376725ee",
       "original_copy_sha256": "834af485d95a600b81511e9d97cb5999de990b4e0e8d4b4ad99b571c376725ee"
+    },
+    {
+      "path": "games/coop/index.html",
+      "bytes": 14639,
+      "sha256": "f6c5bd5716d9ee426f57d9ec2fce38c117726bf6dfd762a4a23de79d9a1130a4",
+      "original_copy_sha256": "f6c5bd5716d9ee426f57d9ec2fce38c117726bf6dfd762a4a23de79d9a1130a4"
+    },
+    {
+      "path": "games/coop/package.json",
+      "bytes": 19,
+      "sha256": "fa6944a20ca5e6fbaf98fd202eb8c7004d5b4ab786e36b9ed02ee31dbe196c9f",
+      "original_copy_sha256": "fa6944a20ca5e6fbaf98fd202eb8c7004d5b4ab786e36b9ed02ee31dbe196c9f"
     },
     {
       "path": "games/coop/server/contracts.cjs",
@@ -679,24 +560,6 @@
       "bytes": 18657,
       "sha256": "f2613dc33644bd27b361788309b210be228f3bfee6b6d3404fd408873803de30",
       "original_copy_sha256": "f2613dc33644bd27b361788309b210be228f3bfee6b6d3404fd408873803de30"
-    },
-    {
-      "path": "games/coop/third_party/slf/NOTICE.md",
-      "bytes": 1718,
-      "sha256": "8f94a4e7ba6c07918755e5126af37518117a42f3a93fdc4455587ca34b22479b",
-      "original_copy_sha256": "8f94a4e7ba6c07918755e5126af37518117a42f3a93fdc4455587ca34b22479b"
-    },
-    {
-      "path": "games/coop/third_party/slf/NOTICE.txt",
-      "bytes": 1718,
-      "sha256": "8f94a4e7ba6c07918755e5126af37518117a42f3a93fdc4455587ca34b22479b",
-      "original_copy_sha256": "8f94a4e7ba6c07918755e5126af37518117a42f3a93fdc4455587ca34b22479b"
-    },
-    {
-      "path": "games/coop/third_party/slf/Registry.as.reference.txt",
-      "bytes": 27249,
-      "sha256": "ab0b2bb398e4ea2121ad0aa47d49fd6768d1dadf9f7a05ca88309bde69cc7457",
-      "original_copy_sha256": "ab0b2bb398e4ea2121ad0aa47d49fd6768d1dadf9f7a05ca88309bde69cc7457"
     },
     {
       "path": "games/coop/third_party/slf/maps/hclevel1.oel",
@@ -1131,6 +994,24 @@
       "original_copy_sha256": "dc64850416e51e291b24087ebc126c14d9303b7dd09bcf573da6c3c9ff0909e0"
     },
     {
+      "path": "games/coop/third_party/slf/NOTICE.md",
+      "bytes": 1718,
+      "sha256": "8f94a4e7ba6c07918755e5126af37518117a42f3a93fdc4455587ca34b22479b",
+      "original_copy_sha256": "8f94a4e7ba6c07918755e5126af37518117a42f3a93fdc4455587ca34b22479b"
+    },
+    {
+      "path": "games/coop/third_party/slf/NOTICE.txt",
+      "bytes": 1718,
+      "sha256": "8f94a4e7ba6c07918755e5126af37518117a42f3a93fdc4455587ca34b22479b",
+      "original_copy_sha256": "8f94a4e7ba6c07918755e5126af37518117a42f3a93fdc4455587ca34b22479b"
+    },
+    {
+      "path": "games/coop/third_party/slf/Registry.as.reference.txt",
+      "bytes": 27249,
+      "sha256": "ab0b2bb398e4ea2121ad0aa47d49fd6768d1dadf9f7a05ca88309bde69cc7457",
+      "original_copy_sha256": "ab0b2bb398e4ea2121ad0aa47d49fd6768d1dadf9f7a05ca88309bde69cc7457"
+    },
+    {
       "path": "games/coop/tools/import-slf.py",
       "bytes": 6250,
       "sha256": "f38ae7174262b58831401a54fcce3686c3ad23b089987bf3ac06ad79ea12fc57",
@@ -1179,16 +1060,16 @@
       "original_copy_sha256": "bb729ad924091517377bf58273ecbe48189f502dfa9d6ba2297ced8c898645fb"
     },
     {
-      "path": "games/guard/index.html",
-      "bytes": 3311,
-      "sha256": "e2b85edc41b7e725283166b9801f2171320b8ff6b783c71a5c73f341c4dff81a",
-      "original_copy_sha256": "e2b85edc41b7e725283166b9801f2171320b8ff6b783c71a5c73f341c4dff81a"
-    },
-    {
       "path": "games/guard/css/style.css",
       "bytes": 721,
       "sha256": "534654d50d40a18b9b5090283878c7646d1343ef093140a6744dc0bc390d8ca7",
       "original_copy_sha256": "534654d50d40a18b9b5090283878c7646d1343ef093140a6744dc0bc390d8ca7"
+    },
+    {
+      "path": "games/guard/index.html",
+      "bytes": 3311,
+      "sha256": "e2b85edc41b7e725283166b9801f2171320b8ff6b783c71a5c73f341c4dff81a",
+      "original_copy_sha256": "e2b85edc41b7e725283166b9801f2171320b8ff6b783c71a5c73f341c4dff81a"
     },
     {
       "path": "games/guard/src/app.js",
@@ -1839,16 +1720,16 @@
       "original_copy_sha256": "31b52224d6dd3e512b5e31d4321dee48b6322edf65b03aab7bf6602c36f1fcd8"
     },
     {
-      "path": "games/mine/index.html",
-      "bytes": 3765,
-      "sha256": "92e3aaffa24a4fb05e187c3f3f501727f7d741ddcddc80b21d8e5fdc35d32113",
-      "original_copy_sha256": "92e3aaffa24a4fb05e187c3f3f501727f7d741ddcddc80b21d8e5fdc35d32113"
-    },
-    {
       "path": "games/mine/css/style.css",
       "bytes": 1378,
       "sha256": "5a192e1eb20dcaba820bd67ffd5a2d1366ab394ff57ed09114f154db5d1d2909",
       "original_copy_sha256": "5a192e1eb20dcaba820bd67ffd5a2d1366ab394ff57ed09114f154db5d1d2909"
+    },
+    {
+      "path": "games/mine/index.html",
+      "bytes": 3765,
+      "sha256": "92e3aaffa24a4fb05e187c3f3f501727f7d741ddcddc80b21d8e5fdc35d32113",
+      "original_copy_sha256": "92e3aaffa24a4fb05e187c3f3f501727f7d741ddcddc80b21d8e5fdc35d32113"
     },
     {
       "path": "games/mine/src/app.js",
@@ -2439,12 +2320,6 @@
       "original_copy_sha256": "559e48d064b1f8a28ac34154ebdb26c5fae1785fe6a51080104eb6542ca4f6e0"
     },
     {
-      "path": "games/tower/index.html",
-      "bytes": 11356,
-      "sha256": "652cc186be288e3a0f2879d3ca3e1b57050aa41608bce326716ec682e05761e0",
-      "original_copy_sha256": "652cc186be288e3a0f2879d3ca3e1b57050aa41608bce326716ec682e05761e0"
-    },
-    {
       "path": "games/tower/css/overlay-ui.css",
       "bytes": 9324,
       "sha256": "368aa54da8bc01a9d9cf7700c42ec325ff12d8473aabac76302269b3c3f8d297",
@@ -2469,10 +2344,10 @@
       "original_copy_sha256": "58f104ed381ea2651a20c9cb17389b3f905f3cf81fc5a1ebc5328512f6ab63a6"
     },
     {
-      "path": "games/tower/src/game.js",
-      "bytes": 171304,
-      "sha256": "df66d300410a27ca52ff10abeadd54c51412ac8b30f66a9e2231c6beaf31e49f",
-      "original_copy_sha256": "df66d300410a27ca52ff10abeadd54c51412ac8b30f66a9e2231c6beaf31e49f"
+      "path": "games/tower/index.html",
+      "bytes": 11356,
+      "sha256": "652cc186be288e3a0f2879d3ca3e1b57050aa41608bce326716ec682e05761e0",
+      "original_copy_sha256": "652cc186be288e3a0f2879d3ca3e1b57050aa41608bce326716ec682e05761e0"
     },
     {
       "path": "games/tower/src/core/ads.js",
@@ -2575,6 +2450,12 @@
       "bytes": 6403,
       "sha256": "7fe54f6e55875cc6ddea1493e7a81f3b87461f25a8f0583f171431abe70c9562",
       "original_copy_sha256": "7fe54f6e55875cc6ddea1493e7a81f3b87461f25a8f0583f171431abe70c9562"
+    },
+    {
+      "path": "games/tower/src/game.js",
+      "bytes": 171304,
+      "sha256": "df66d300410a27ca52ff10abeadd54c51412ac8b30f66a9e2231c6beaf31e49f",
+      "original_copy_sha256": "df66d300410a27ca52ff10abeadd54c51412ac8b30f66a9e2231c6beaf31e49f"
     },
     {
       "path": "games/tower/src/ui/art-runtime.js",
@@ -2781,6 +2662,18 @@
       "original_copy_sha256": "77c767e547dda321a495e637e364821db837719af0e2fb4e74b1c20a508446ed"
     },
     {
+      "path": "games/workshop/vendor/THREE-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d",
+      "original_copy_sha256": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d"
+    },
+    {
+      "path": "games/workshop/vendor/three.module.js",
+      "bytes": 1272972,
+      "sha256": "76dea8151bc9352aef3528b4262e249b2604f62543828328db978d060d61a495",
+      "original_copy_sha256": "76dea8151bc9352aef3528b4262e249b2604f62543828328db978d060d61a495"
+    },
+    {
       "path": "games/workshop/viewport.css",
       "bytes": 9850,
       "sha256": "63e7b53912c64da50f64086404ffaac45e32b2580328ce168d1270cdff9771bc",
@@ -2793,16 +2686,148 @@
       "original_copy_sha256": "67a2827187c184938a503d75dbeff980d641a23c52e2c5dfe3d9d0d287a033e9"
     },
     {
-      "path": "games/workshop/vendor/THREE-LICENSE.txt",
-      "bytes": 1081,
-      "sha256": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d",
-      "original_copy_sha256": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d"
+      "path": "index.html",
+      "bytes": 1052,
+      "sha256": "f381cb4884a958d9a5e606ace5566ff5f29f6804e6ae5f9cd693cf0d3cb05e6f",
+      "original_copy_sha256": "f381cb4884a958d9a5e606ace5566ff5f29f6804e6ae5f9cd693cf0d3cb05e6f"
     },
     {
-      "path": "games/workshop/vendor/three.module.js",
-      "bytes": 1272972,
-      "sha256": "76dea8151bc9352aef3528b4262e249b2604f62543828328db978d060d61a495",
-      "original_copy_sha256": "76dea8151bc9352aef3528b4262e249b2604f62543828328db978d060d61a495"
+      "path": "legal.html",
+      "bytes": 2836,
+      "sha256": "2db6439f125dfda802a5e8de74ffe30d0cd73d79df4560acd6d8dc09c64fa98c",
+      "original_copy_sha256": "2db6439f125dfda802a5e8de74ffe30d0cd73d79df4560acd6d8dc09c64fa98c"
+    },
+    {
+      "path": "licenses/GPL-3.0.txt",
+      "bytes": 35128,
+      "sha256": "3743f7a4ab5132f7dbeb88e68097657ab8374e74b46b6402efbe80ccfb1b6488",
+      "original_copy_sha256": "3743f7a4ab5132f7dbeb88e68097657ab8374e74b46b6402efbe80ccfb1b6488"
+    },
+    {
+      "path": "licenses/OFL-ZCOOLKuaiLe.txt",
+      "bytes": 4398,
+      "sha256": "538078469839b4a2e7ad22bef4ebe41681a4e53749bb2a072144024f1d6d703d",
+      "original_copy_sha256": "538078469839b4a2e7ad22bef4ebe41681a4e53749bb2a072144024f1d6d703d"
+    },
+    {
+      "path": "live-games.js",
+      "bytes": 4173,
+      "sha256": "61934777c37cf33107f8d8ca268434066ad79fd44ae9c5d74f06fe64f8a8f55b",
+      "original_copy_sha256": "61934777c37cf33107f8d8ca268434066ad79fd44ae9c5d74f06fe64f8a8f55b"
+    },
+    {
+      "path": "live.css",
+      "bytes": 1930,
+      "sha256": "8fc86c85ec4a77143465d5d609053321cfbfab57fe7f12287da2bc5e96ca1fc5",
+      "original_copy_sha256": "8fc86c85ec4a77143465d5d609053321cfbfab57fe7f12287da2bc5e96ca1fc5"
+    },
+    {
+      "path": "multiplayer-contract.json",
+      "bytes": 5938,
+      "sha256": "3ca7fd2b2b5439cc34882e03d877446bbac4ee00264577b64ea9bd7cefb215f8",
+      "original_copy_sha256": "3ca7fd2b2b5439cc34882e03d877446bbac4ee00264577b64ea9bd7cefb215f8"
+    },
+    {
+      "path": "package.json",
+      "bytes": 2908,
+      "sha256": "52c780fb639c25bc9454a708f0282cf9eb73ad39f945263b3fedac8ba93818c8",
+      "original_copy_sha256": "52c780fb639c25bc9454a708f0282cf9eb73ad39f945263b3fedac8ba93818c8"
+    },
+    {
+      "path": "pixel-home.js",
+      "bytes": 2013,
+      "sha256": "37a470e82b4a209a25bb216470d8e44465addd4bf970653420b6b758a932173a",
+      "original_copy_sha256": "37a470e82b4a209a25bb216470d8e44465addd4bf970653420b6b758a932173a"
+    },
+    {
+      "path": "pixel-icons.js",
+      "bytes": 1941,
+      "sha256": "48aba6788761f565aa4a5c13a4759b177d2614f68ede4e16666ff49abfda7b66",
+      "original_copy_sha256": "48aba6788761f565aa4a5c13a4759b177d2614f68ede4e16666ff49abfda7b66"
+    },
+    {
+      "path": "pixel.css",
+      "bytes": 24230,
+      "sha256": "0f54244ad74012d2aa256170996c386a1d3c931f7a5660ccf5c2e278f7d9516e",
+      "original_copy_sha256": "0f54244ad74012d2aa256170996c386a1d3c931f7a5660ccf5c2e278f7d9516e"
+    },
+    {
+      "path": "platform.js",
+      "bytes": 1034,
+      "sha256": "8411d0969942a761b4dba32d10c52f5012ae35ae4386b8a7450a5317e5dd6faf",
+      "original_copy_sha256": "8411d0969942a761b4dba32d10c52f5012ae35ae4386b8a7450a5317e5dd6faf"
+    },
+    {
+      "path": "playful.css",
+      "bytes": 16538,
+      "sha256": "4e16288fa980b80ad63a8f46732e3a39a58c32b504c4ce10b7ceed4c6e4cf650",
+      "original_copy_sha256": "4e16288fa980b80ad63a8f46732e3a39a58c32b504c4ce10b7ceed4c6e4cf650"
+    },
+    {
+      "path": "polish.css",
+      "bytes": 35074,
+      "sha256": "46c4b684448e5c2c300c25f362374622b4bdabe5c79c780f5044878fc2df9574",
+      "original_copy_sha256": "46c4b684448e5c2c300c25f362374622b4bdabe5c79c780f5044878fc2df9574"
+    },
+    {
+      "path": "quest-badge.js",
+      "bytes": 722,
+      "sha256": "886e8aa3ae6a1e8345bc10c932772a49a262f6f8b68a8ec5d930fdb112afe295",
+      "original_copy_sha256": "886e8aa3ae6a1e8345bc10c932772a49a262f6f8b68a8ec5d930fdb112afe295"
+    },
+    {
+      "path": "reference-art.js",
+      "bytes": 3254,
+      "sha256": "005e052400acb26799467e072cd0c2b6d9c2d8c78698ebe8751c90bda9ac999d",
+      "original_copy_sha256": "005e052400acb26799467e072cd0c2b6d9c2d8c78698ebe8751c90bda9ac999d"
+    },
+    {
+      "path": "reference-ui.css",
+      "bytes": 21532,
+      "sha256": "19b97e88a21f0c52f47631efd4615109df529702f9773b947fe450cdd90b069f",
+      "original_copy_sha256": "19b97e88a21f0c52f47631efd4615109df529702f9773b947fe450cdd90b069f"
+    },
+    {
+      "path": "release-manifest.json",
+      "bytes": 2461,
+      "sha256": "ac2cc80d194556e47fc5ce3d7efc7ffb975e4a9e2dc4c8c4e1fb5c3af0d00a13",
+      "original_copy_sha256": "ac2cc80d194556e47fc5ce3d7efc7ffb975e4a9e2dc4c8c4e1fb5c3af0d00a13"
+    },
+    {
+      "path": "runtime-pack-policy.json",
+      "bytes": 386,
+      "sha256": "c858faf4799186cd6afb1120b52c7bfe0b9249c409cbe71c2d440ef44fe6b948",
+      "original_copy_sha256": "c858faf4799186cd6afb1120b52c7bfe0b9249c409cbe71c2d440ef44fe6b948"
+    },
+    {
+      "path": "screen-pages.css",
+      "bytes": 1981,
+      "sha256": "7e0222a5ebbaaea8c7911ac47b9722bf3401204901a8cefc4447a02e8e7a42ea",
+      "original_copy_sha256": "7e0222a5ebbaaea8c7911ac47b9722bf3401204901a8cefc4447a02e8e7a42ea"
+    },
+    {
+      "path": "screen-pages.js",
+      "bytes": 11697,
+      "sha256": "a087bd253efcd0d992ea1d16a0dcca81f423ae36ae7fe586037191325fc0aaa4",
+      "original_copy_sha256": "a087bd253efcd0d992ea1d16a0dcca81f423ae36ae7fe586037191325fc0aaa4"
+    },
+    {
+      "path": "server.mjs",
+      "bytes": 2448,
+      "sha256": "a58c6bd99c3704d32334e0601a361d25d289c1cfab36baf7b7272b191761f4ae",
+      "original_copy_sha256": "a58c6bd99c3704d32334e0601a361d25d289c1cfab36baf7b7272b191761f4ae"
+    },
+    {
+      "path": "services.js",
+      "bytes": 15926,
+      "sha256": "e6d5df9a9ee26c0cccea2c34dc67f6731acc162304aa21fa76efc8ad6372c6de",
+      "original_copy_sha256": "e6d5df9a9ee26c0cccea2c34dc67f6731acc162304aa21fa76efc8ad6372c6de"
+    },
+    {
+      "path": "style.css",
+      "bytes": 27005,
+      "sha256": "31759b66fd4ad299936028f084a6a19cdc2866510cb6c88a31fa440b5c08fb5a",
+      "original_copy_sha256": "31759b66fd4ad299936028f084a6a19cdc2866510cb6c88a31fa440b5c08fb5a"
     },
     {
       "path": "tests/adventure-browser.mjs",
@@ -3121,6 +3146,12 @@
       "bytes": 16084,
       "sha256": "3be5cc49ba55ff41fddf6dd3ff050caa03c65f77fb77b511575f7936f8342782",
       "original_copy_sha256": "3be5cc49ba55ff41fddf6dd3ff050caa03c65f77fb77b511575f7936f8342782"
+    },
+    {
+      "path": "tests/fixtures/mine-v07-record.json",
+      "bytes": 889,
+      "sha256": "b721567afa616bd8b768b5445f6946429684eaea90a221302887c18f53fb7943",
+      "original_copy_sha256": "b721567afa616bd8b768b5445f6946429684eaea90a221302887c18f53fb7943"
     },
     {
       "path": "tests/hero-jump.mjs",
@@ -3735,10 +3766,10 @@
       "original_copy_sha256": "cbd421f439fd557f8e7c1db74dbc07440f443155f03356b2c709ca4f8c2b0c91"
     },
     {
-      "path": "tests/fixtures/mine-v07-record.json",
-      "bytes": 889,
-      "sha256": "b721567afa616bd8b768b5445f6946429684eaea90a221302887c18f53fb7943",
-      "original_copy_sha256": "b721567afa616bd8b768b5445f6946429684eaea90a221302887c18f53fb7943"
+      "path": "THIRD-PARTY-NOTICES.txt",
+      "bytes": 2176,
+      "sha256": "a62827ad9bbf984ec6b680b2c84227a02dd11274e5ed19ccdab73b24c09bd6b2",
+      "original_copy_sha256": "a62827ad9bbf984ec6b680b2c84227a02dd11274e5ed19ccdab73b24c09bd6b2"
     },
     {
       "path": "tools/add-evolve-hell.mjs",
@@ -4743,136 +4774,106 @@
       "original_copy_sha256": "3c72b5383a36c74cc55c8e7173a019ae89373bd7156b57de701a44b543f007d5"
     },
     {
-      "path": "android/gradle.properties",
-      "bytes": 107,
-      "sha256": "bb154113902d3f6299ec1001cb78f41aecfc8a70a21f3ab877023ba1ab4769e1",
-      "original_copy_sha256": "bb154113902d3f6299ec1001cb78f41aecfc8a70a21f3ab877023ba1ab4769e1"
+      "path": "ui.js",
+      "bytes": 3133,
+      "sha256": "32ac5ae65ec3e900493a2747d3de2ba37bac367d250b49d08271bd6a32704a65",
+      "original_copy_sha256": "32ac5ae65ec3e900493a2747d3de2ba37bac367d250b49d08271bd6a32704a65"
     },
     {
-      "path": "android/pack-assets.mjs",
-      "bytes": 2861,
-      "sha256": "b57881cf11f94b11d88504b2d4cb108d80d76b4a6d79c920e9b3ae813011a119",
-      "original_copy_sha256": "b57881cf11f94b11d88504b2d4cb108d80d76b4a6d79c920e9b3ae813011a119"
+      "path": "unified.css",
+      "bytes": 3667,
+      "sha256": "03163a8ec9c6d1832ed300b2318335700733e93a19b20e6415515ca6a4f475b7",
+      "original_copy_sha256": "03163a8ec9c6d1832ed300b2318335700733e93a19b20e6415515ca6a4f475b7"
     },
     {
-      "path": "android/README.md",
-      "bytes": 6158,
-      "sha256": "a16a98cec244ce39c2155f0889733728c50d994eada8693ed96167ce0e30c278",
-      "original_copy_sha256": "a16a98cec244ce39c2155f0889733728c50d994eada8693ed96167ce0e30c278"
+      "path": "views.js",
+      "bytes": 15761,
+      "sha256": "bdc1b1f586a85271b0aef67af886222126a247646896cd699bbd792f50b0a529",
+      "original_copy_sha256": "bdc1b1f586a85271b0aef67af886222126a247646896cd699bbd792f50b0a529"
     },
     {
-      "path": "android/test-bundle.mjs",
-      "bytes": 3817,
-      "sha256": "029c131abcf0ae135ccb34eecf5ec455c1b4bd325a59d7371a8f3597f63fb2ad",
-      "original_copy_sha256": "029c131abcf0ae135ccb34eecf5ec455c1b4bd325a59d7371a8f3597f63fb2ad"
+      "path": "warm.css",
+      "bytes": 10438,
+      "sha256": "099e10c6d539141a23ca47403679f4956103bebe8c64a535c59c31210420e601",
+      "original_copy_sha256": "099e10c6d539141a23ca47403679f4956103bebe8c64a535c59c31210420e601"
     },
     {
-      "path": "android/test-six-mode-bundle.mjs",
-      "bytes": 2604,
-      "sha256": "1407e01912c3f03d5fcd1e2ee61103bc7a7f235266f618478e5305d8482d0bf9",
-      "original_copy_sha256": "1407e01912c3f03d5fcd1e2ee61103bc7a7f235266f618478e5305d8482d0bf9"
+      "path": "wood-settings.js",
+      "bytes": 2143,
+      "sha256": "79e3b94bffcae7839270425c4428bb8c29026921a02b511e9f6bbd8428198084",
+      "original_copy_sha256": "79e3b94bffcae7839270425c4428bb8c29026921a02b511e9f6bbd8428198084"
     },
     {
-      "path": "android/发布核对-1.17.0.md",
-      "bytes": 2678,
-      "sha256": "2eeb62c6cb19c9932dad46daa9b30a75db963ca9fcbff19182f1ff89e0d57ff7",
-      "original_copy_sha256": "2eeb62c6cb19c9932dad46daa9b30a75db963ca9fcbff19182f1ff89e0d57ff7"
+      "path": "交付校验-1.10.0.json",
+      "bytes": 650,
+      "sha256": "76f565ad04230c4aea0c8724857c6d7fc278b5524db8debb3ad965862779bc20",
+      "original_copy_sha256": "76f565ad04230c4aea0c8724857c6d7fc278b5524db8debb3ad965862779bc20"
     },
     {
-      "path": "android/发布核对-1.18.0.md",
-      "bytes": 2807,
-      "sha256": "fedaf93d546585804bf346b769e45b83f2d9cc3e57b3e6f3a1cd9f6460bb81cb",
-      "original_copy_sha256": "fedaf93d546585804bf346b769e45b83f2d9cc3e57b3e6f3a1cd9f6460bb81cb"
+      "path": "交付校验-1.11.0.json",
+      "bytes": 485,
+      "sha256": "9a235aaeb7a70cbe7ad09808d58013488f48791061cf712e1dbb3840cfc60b6e",
+      "original_copy_sha256": "9a235aaeb7a70cbe7ad09808d58013488f48791061cf712e1dbb3840cfc60b6e"
     },
     {
-      "path": "android/发布核对-1.19.0.md",
-      "bytes": 1316,
-      "sha256": "45173ab2dbcf6fb0406325f9ca8026146b701a3997778518c623e579a17dfd8d",
-      "original_copy_sha256": "45173ab2dbcf6fb0406325f9ca8026146b701a3997778518c623e579a17dfd8d"
+      "path": "交付校验-1.12.0.json",
+      "bytes": 485,
+      "sha256": "317bd561cbc307dced2179bb25bf02bd6c647fcad8bfc4c6b3bb3e8b45de8e86",
+      "original_copy_sha256": "317bd561cbc307dced2179bb25bf02bd6c647fcad8bfc4c6b3bb3e8b45de8e86"
     },
     {
-      "path": "android/发布核对-1.19.1.md",
-      "bytes": 1603,
-      "sha256": "affcb236b325974e2c09e2b9ca9d23dde9a3e46da763914c3d87a0e8a50d5652",
-      "original_copy_sha256": "affcb236b325974e2c09e2b9ca9d23dde9a3e46da763914c3d87a0e8a50d5652"
+      "path": "交付校验-1.12.1.json",
+      "bytes": 932,
+      "sha256": "2554f7db595065589a0042f6596d0e62eb40e8cbe648f219769bcb5df4fd7292",
+      "original_copy_sha256": "2554f7db595065589a0042f6596d0e62eb40e8cbe648f219769bcb5df4fd7292"
     },
     {
-      "path": "android/发布核对-1.20.0.md",
-      "bytes": 2680,
-      "sha256": "e7067e4d6ca807edd6bbf263a652dc505446c2ec1736883c29bd67f304f273bd",
-      "original_copy_sha256": "e7067e4d6ca807edd6bbf263a652dc505446c2ec1736883c29bd67f304f273bd"
+      "path": "交付校验-1.13.0.json",
+      "bytes": 492,
+      "sha256": "3cd069639589d7b8c11f544711db35e22889ecb8dbf5f5d61d651053b9798c29",
+      "original_copy_sha256": "3cd069639589d7b8c11f544711db35e22889ecb8dbf5f5d61d651053b9798c29"
     },
     {
-      "path": "android/发布核对-1.21.0.md",
-      "bytes": 5526,
-      "sha256": "7b05e0fccecef786f22267a24b1e9557256faf4d279ab41b761315fbf254fcdb",
-      "original_copy_sha256": "7b05e0fccecef786f22267a24b1e9557256faf4d279ab41b761315fbf254fcdb"
+      "path": "交付校验-1.14.0.json",
+      "bytes": 868,
+      "sha256": "c9920bafdbbafdea1306677cb0de4084c66c058b1c81058f553be95803dae7b2",
+      "original_copy_sha256": "c9920bafdbbafdea1306677cb0de4084c66c058b1c81058f553be95803dae7b2"
     },
     {
-      "path": "android/发布核对-1.22.0.md",
-      "bytes": 3028,
-      "sha256": "8b48d16caa7595de90f89b24fcd9ca7cbb9564fb3bbb11872612fbf83425b54b",
-      "original_copy_sha256": "8b48d16caa7595de90f89b24fcd9ca7cbb9564fb3bbb11872612fbf83425b54b"
+      "path": "交付校验-1.6.0.json",
+      "bytes": 378,
+      "sha256": "95fc3221355af8a51b31ecb6176c8bd55dce4fae532e8d1cfd467bc11cea8a1e",
+      "original_copy_sha256": "95fc3221355af8a51b31ecb6176c8bd55dce4fae532e8d1cfd467bc11cea8a1e"
     },
     {
-      "path": "android/发布核对-1.23.0.md",
-      "bytes": 3443,
-      "sha256": "7d391a63255d154ac872439058eccf52bfbfeff4ae799c0b377f7ac07ee76ac2",
-      "original_copy_sha256": "7d391a63255d154ac872439058eccf52bfbfeff4ae799c0b377f7ac07ee76ac2"
+      "path": "交付校验-1.7.0.json",
+      "bytes": 384,
+      "sha256": "6155eb6e7c7bd5665ebdf0ad29fbab57c132942954e5c8d5afac92811d6516aa",
+      "original_copy_sha256": "6155eb6e7c7bd5665ebdf0ad29fbab57c132942954e5c8d5afac92811d6516aa"
     },
     {
-      "path": "android/发布核对-1.91.2.md",
-      "bytes": 1693,
-      "sha256": "5ffb38dddd7b52aef690f12c0492af8cb11b7990179cdaabaffc42b6b305e01f",
-      "original_copy_sha256": "5ffb38dddd7b52aef690f12c0492af8cb11b7990179cdaabaffc42b6b305e01f"
+      "path": "交付校验-1.7.1.json",
+      "bytes": 384,
+      "sha256": "dbd14470d9d47de291fe7d080735f06aa70409e8b57ccd53520e1ce3229fe939",
+      "original_copy_sha256": "dbd14470d9d47de291fe7d080735f06aa70409e8b57ccd53520e1ce3229fe939"
     },
     {
-      "path": "android/app/src/main/AndroidManifest.xml",
-      "bytes": 1005,
-      "sha256": "9cc1f823f07e056edd5b38e659d3f05650d8b5136d9e27bbe843feeb7f5bbf44",
-      "original_copy_sha256": "9cc1f823f07e056edd5b38e659d3f05650d8b5136d9e27bbe843feeb7f5bbf44"
+      "path": "交付校验-1.8.0.json",
+      "bytes": 384,
+      "sha256": "3ea45e25bbfb4a079ea142f8b809732dd48c2ddf6fc01de96fc57e817cb3a390",
+      "original_copy_sha256": "3ea45e25bbfb4a079ea142f8b809732dd48c2ddf6fc01de96fc57e817cb3a390"
     },
     {
-      "path": "android/app/src/main/assets/web/assets/fonts/OFL-ZCOOLKuaiLe.txt",
-      "bytes": 4398,
-      "sha256": "538078469839b4a2e7ad22bef4ebe41681a4e53749bb2a072144024f1d6d703d",
-      "original_copy_sha256": "538078469839b4a2e7ad22bef4ebe41681a4e53749bb2a072144024f1d6d703d"
+      "path": "交付校验-1.8.1.json",
+      "bytes": 369,
+      "sha256": "91fead6f8f446061676731ef6064b184b17a24a1599c0255dc1ece7e2d34a4ea",
+      "original_copy_sha256": "91fead6f8f446061676731ef6064b184b17a24a1599c0255dc1ece7e2d34a4ea"
     },
     {
-      "path": "android/app/src/main/assets/web/games/chess/vendor/CardRoomPro-LICENSE.txt",
-      "bytes": 1067,
-      "sha256": "92fff91b197a0b257951c7be4043dbd038bc78592fdaa8ad94a53a9e314e6343",
-      "original_copy_sha256": "92fff91b197a0b257951c7be4043dbd038bc78592fdaa8ad94a53a9e314e6343"
-    },
-    {
-      "path": "android/app/src/main/assets/web/games/coop/third_party/slf/LICENSE.txt",
-      "bytes": 35128,
-      "sha256": "3743f7a4ab5132f7dbeb88e68097657ab8374e74b46b6402efbe80ccfb1b6488",
-      "original_copy_sha256": "3743f7a4ab5132f7dbeb88e68097657ab8374e74b46b6402efbe80ccfb1b6488"
-    },
-    {
-      "path": "android/app/src/main/assets/web/games/workshop/vendor/THREE-LICENSE.txt",
-      "bytes": 1081,
-      "sha256": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d",
-      "original_copy_sha256": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d"
-    },
-    {
-      "path": "licenses/GPL-3.0.txt",
-      "bytes": 35128,
-      "sha256": "3743f7a4ab5132f7dbeb88e68097657ab8374e74b46b6402efbe80ccfb1b6488",
-      "original_copy_sha256": "3743f7a4ab5132f7dbeb88e68097657ab8374e74b46b6402efbe80ccfb1b6488"
-    },
-    {
-      "path": "THIRD-PARTY-NOTICES.txt",
-      "bytes": 2176,
-      "sha256": "a62827ad9bbf984ec6b680b2c84227a02dd11274e5ed19ccdab73b24c09bd6b2",
-      "original_copy_sha256": "a62827ad9bbf984ec6b680b2c84227a02dd11274e5ed19ccdab73b24c09bd6b2"
-    },
-    {
-      "path": "licenses/OFL-ZCOOLKuaiLe.txt",
-      "bytes": 4398,
-      "sha256": "538078469839b4a2e7ad22bef4ebe41681a4e53749bb2a072144024f1d6d703d",
-      "original_copy_sha256": "538078469839b4a2e7ad22bef4ebe41681a4e53749bb2a072144024f1d6d703d"
+      "path": "交付校验-1.9.0.json",
+      "bytes": 369,
+      "sha256": "cac7e4ac09c763425228e336bd1a5b64bb85e7b9e2b8100f530bd8afe2525b56",
+      "original_copy_sha256": "cac7e4ac09c763425228e336bd1a5b64bb85e7b9e2b8100f530bd8afe2525b56"
     }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-15",
+  "captured_at": "2026-10-15T01:51:25+08:00",
+  "repository": "casual-game-systems",
+  "source_version": "1.27.0 working source",
+  "selected_source_files": 812,
+  "source_comparison": "All selected files matched current main working directory after ignoring only UTF-8 BOM and CRLF/LF differences.",
+  "added_source_files": 0,
+  "updated_source_files": 0,
+  "inventory_sha256": "31c454cc7172964289328b3f96c385892e573bc14de5deeb605ee332f17252f9",
+  "scope": "Independent project source and engineering documents; original private databases, credentials, model weights, caches and local delivery archives not published."
+}
